@@ -1,0 +1,23 @@
+{
+  "name": "get-natural-numbers",
+  "version": "0.1.0",
+  "description": "Get natural numbers from string to string",
+  "license": "MIT",
+  "repository": "nelsera/get-natural-numbers",
+  "author": {
+    "name": "Nelsera",
+    "email": "franciscosilvanelson@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es2015",
+    "ecmascript",
+    "natural",
+    "numbers"
+  ]
+}
